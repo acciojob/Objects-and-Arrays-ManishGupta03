@@ -22,11 +22,11 @@ team.pop();
 // Example: Modifying the team1 array (does not affect the original players array)
 team1.push("Eve");
 
-console.log("Original players array:", players);
-console.log("Original person object:", person);
-console.log("Reference to players (team):", team);
-console.log("Copy of players (team1):", team1);
-console.log("Copy of person (cap1):", cap1);
+// console.log("Original players array:", players);
+// console.log("Original person object:", person);
+// console.log("Reference to players (team):", team);
+// console.log("Copy of players (team1):", team1);
+// console.log("Copy of person (cap1):", cap1);
 
 window.players = players;
 window.person = person;
